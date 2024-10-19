@@ -1,0 +1,17 @@
+.DS_Store
+input_files
+input_files/*
+bin
+bin/*
+lib
+lib/*
+etc
+etc/*
+pyvenv.cfg
+share
+*.png
+*.jpg
+*.avi
+*.nii.gz
+*.mov
+*.gif
